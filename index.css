@@ -1,0 +1,153 @@
+html {
+    display: block;
+}
+
+head {
+    display: none;
+}
+
+body {
+    font-family: 'Nunito Sans', 'sans-serif';
+    margin: 0 10%;
+    display: block;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+div {
+    display: block;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.dodgerblue {
+    background-color: dodgerblue;
+    color: #fff;
+}
+
+.mediumaquamarine {
+    background-color: mediumaquamarine;
+    color: #000;
+}
+
+.palegoldenrod {
+    background-color: palegoldenrod;
+    color: #000;
+}
+
+.coral {
+    background-color: coral;
+    color: #000;
+}
+
+.crimson {
+    background-color: crimson;
+    color: #fff;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+.open-sans {
+    font-family: 'open-sans';
+}
+
+.roboto {
+    font-family: 'roboto';
+}
+
+.ibm-plex-sans {
+    font-family: '.ibm-plex-sans';
+}
+
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+li {
+    display: list-item;
+}
+
+.text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Poppins', 'sans-serif';
+}
+
+.text-panel p {
+    font-weight: 400;
+    font-size: 14px;    
+    font-family: 'Poppins', 'sans-serif';
+}
